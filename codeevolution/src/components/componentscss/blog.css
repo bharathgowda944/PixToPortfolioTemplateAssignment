@@ -1,0 +1,17 @@
+.blogalign col{
+    display:block;
+    width:100%;
+
+}
+
+.clientalign{
+    
+    width:100%;
+    background-color: teal;
+    padding:40px;
+    margin:60px;
+}
+
+.blogimg{
+
+}

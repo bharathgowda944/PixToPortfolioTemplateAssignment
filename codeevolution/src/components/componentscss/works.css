@@ -1,0 +1,53 @@
+/* .service1 h1 {
+    display:block;
+    text-align:center;
+    margin-top:80px;
+    margin-bottom:20px;
+
+}
+.service1 p{
+    margin-bottom:80px;
+}
+.service1{
+    margin-top:60px
+}
+.navbar{
+    display:center;
+    padding-left:10%
+} */
+
+.buttonbar button{
+    text-align:center;
+    margin:2%;
+    border-color:white;
+    color:grey;
+    border-radius: 30%;
+}
+
+.pic{
+    display:block;
+    width:100;
+    position:relative;
+    
+    
+}
+.workimg{
+    width:100%;
+    height:384.6px;
+    color:skyblue;
+    padding:20px;
+    display:block;
+    width:100%
+}
+.pic h4,p{
+    text-align: left;
+    padding-left:30px;
+}
+.service3 h1{
+    text-align: center;
+    padding-top:10%;
+}
+.service3 p{
+    text-align:center;
+    padding:20px
+}

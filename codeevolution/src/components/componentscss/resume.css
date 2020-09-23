@@ -1,0 +1,49 @@
+.service2 h1 {
+    display:auto;
+    text-align:center;
+    margin-top:80px;
+    margin-bottom:20px;
+
+}
+.service2 p{
+    margin-bottom:80px;
+    text-align:center;
+}
+.service2{
+    margin-top:60px
+    
+}
+.resumecontent{
+    display:block;
+    width:100%
+}
+.resumeheader h5{
+    text-align:left;
+    padding-left:30px
+}
+.resumeheader h4{
+    text-align:left;
+    padding-left:30px
+}
+.backgroundimg{
+    background-image: url("../images/counter-bg1.jpg");
+    /* position: relative; */
+    padding:100px 0 70px 0;
+    /* background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat; */
+    /* margin:0;
+    padding-left:0;
+    padding-right:0; */
+    text-align: center;
+    color:white;
+    filter:brightness(60%);
+    /* width:6295.351px; */
+    display:block;
+    width:100%;
+    
+    /* background:linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url("./images/counter-bg1.jpg"); */
+    /* background:filter(brightness(50%), url("./images/counter-bg1.jpg")); */
+}
+ 
+
